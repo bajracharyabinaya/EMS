@@ -1,0 +1,15 @@
+{
+  "name": "tether",
+  "homepage": "https://github.com/HubSpot/tether",
+  "version": "2.0.0-beta.5",
+  "_release": "2.0.0-beta.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.0-beta.5",
+    "commit": "551f8ec62e12d851c7467317a0c404df8671002f"
+  },
+  "_source": "https://github.com/HubSpot/tether.git",
+  "_target": "v2.0.0-beta.5",
+  "_originalSource": "tether",
+  "_direct": true
+}

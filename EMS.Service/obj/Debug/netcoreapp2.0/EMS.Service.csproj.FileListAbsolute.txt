@@ -1,0 +1,26 @@
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Service.deps.json
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Service.dll
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Service.pdb
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Core.dll
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Data.dll
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Core.pdb
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Data.pdb
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.csprojResolveAssemblyReference.cache
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.csproj.CoreCompileInputs.cache
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.AssemblyInfoInputs.cache
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.AssemblyInfo.cs
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.dll
+C:\Users\percoid-it\source\repos\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.pdb
+F:\VSProjects\New folder\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Service.deps.json
+F:\VSProjects\New folder\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Service.dll
+F:\VSProjects\New folder\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Service.pdb
+F:\VSProjects\New folder\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Core.dll
+F:\VSProjects\New folder\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Data.dll
+F:\VSProjects\New folder\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Core.pdb
+F:\VSProjects\New folder\EMS\EMS.Service\bin\Debug\netcoreapp2.0\EMS.Data.pdb
+F:\VSProjects\New folder\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.csprojResolveAssemblyReference.cache
+F:\VSProjects\New folder\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.csproj.CoreCompileInputs.cache
+F:\VSProjects\New folder\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.AssemblyInfoInputs.cache
+F:\VSProjects\New folder\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.AssemblyInfo.cs
+F:\VSProjects\New folder\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.dll
+F:\VSProjects\New folder\EMS\EMS.Service\obj\Debug\netcoreapp2.0\EMS.Service.pdb

@@ -1,0 +1,22 @@
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\bin\Debug\netcoreapp2.0\EMS.Core.deps.json
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\bin\Debug\netcoreapp2.0\EMS.Core.dll
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\bin\Debug\netcoreapp2.0\EMS.Core.pdb
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\bin\Debug\netcoreapp2.0\EMS.Data.dll
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\bin\Debug\netcoreapp2.0\EMS.Data.pdb
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.csprojResolveAssemblyReference.cache
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.AssemblyInfoInputs.cache
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.AssemblyInfo.cs
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.dll
+C:\Users\percoid-it\source\repos\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.pdb
+F:\VSProjects\New folder\EMS\EMS.Core\bin\Debug\netcoreapp2.0\EMS.Core.deps.json
+F:\VSProjects\New folder\EMS\EMS.Core\bin\Debug\netcoreapp2.0\EMS.Core.dll
+F:\VSProjects\New folder\EMS\EMS.Core\bin\Debug\netcoreapp2.0\EMS.Core.pdb
+F:\VSProjects\New folder\EMS\EMS.Core\bin\Debug\netcoreapp2.0\EMS.Data.dll
+F:\VSProjects\New folder\EMS\EMS.Core\bin\Debug\netcoreapp2.0\EMS.Data.pdb
+F:\VSProjects\New folder\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.csprojResolveAssemblyReference.cache
+F:\VSProjects\New folder\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.csproj.CoreCompileInputs.cache
+F:\VSProjects\New folder\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.AssemblyInfoInputs.cache
+F:\VSProjects\New folder\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.AssemblyInfo.cs
+F:\VSProjects\New folder\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.dll
+F:\VSProjects\New folder\EMS\EMS.Core\obj\Debug\netcoreapp2.0\EMS.Core.pdb
